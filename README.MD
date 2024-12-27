@@ -78,3 +78,5 @@ Les détails des fonctions des broches sont disponibles ici :
 Le flash n'a fonctionné qu'avec **ITchiptool v4.7.0**. Vous pouvez télécharger cet outil via le lien suivant :
 **[ITchiptool v4.7.0](https://github.com/libretiny-eu/ltchiptool/releases/tag/v4.7.0)**
  
+
+#### This config is based on [this config](https://devices.esphome.io/devices/Digitaling-20A-Power-Monitor-RTL8710BX-t102-v1.1).
