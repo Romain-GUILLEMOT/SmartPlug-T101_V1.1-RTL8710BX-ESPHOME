@@ -28,9 +28,7 @@ Pin functions can be found here:
 
 ### 📸 Wiring Images
 
-![Image 1](https://github.com/Romain-GUILLEMOT/SmartPlug-T101_V1.1-RTL8710BX-ESPHOME/blob/main/images/1.png?raw=true "Image 1")
-![Image 2](https://github.com/Romain-GUILLEMOT/SmartPlug-T101_V1.1-RTL8710BX-ESPHOME/blob/main/images/2.png?raw=true "Image 2")
-![Image 3](https://github.com/Romain-GUILLEMOT/SmartPlug-T101_V1.1-RTL8710BX-ESPHOME/blob/main/images/3.png?raw=true "Image 3")
+See end of this page or the "images" folder.
 
 ### ⚙️ Recommended Software
 Flashing only worked using **ITchiptool v4.7.0**. You can download this tool via the following link:
@@ -78,10 +76,7 @@ Les détails des fonctions des broches sont disponibles ici :
 
 ### 📸 Images de branchement
 
-![Image 1](https://github.com/Romain-GUILLEMOT/SmartPlug-T101_V1.1-RTL8710BX-ESPHOME/blob/main/images/1.png?raw=true "Image 1")
-![Image 2](https://github.com/Romain-GUILLEMOT/SmartPlug-T101_V1.1-RTL8710BX-ESPHOME/blob/main/images/2.png?raw=true "Image 2")
-![Image 3](https://github.com/Romain-GUILLEMOT/SmartPlug-T101_V1.1-RTL8710BX-ESPHOME/blob/main/images/3.png?raw=true "Image 3")
-
+Voir la fin de la page.
 
 ### ⚙️ Logiciel recommandé
 Le flash n'a fonctionné qu'avec **ITchiptool v4.7.0**. Vous pouvez télécharger cet outil via le lien suivant :
@@ -95,5 +90,9 @@ Si vous avez besoin d’aide, voici quelques liens qui m’ont aidé durant le p
 - [elektroda](https://www.elektroda.com/rtvforum/topic4032920.html)
 - [bluemind](https://www.bluemind.org/converting-a-tuya-power-plug-to-esphome-device/)
 
+# Pictures 
+![Image 1](https://github.com/Romain-GUILLEMOT/SmartPlug-T101_V1.1-RTL8710BX-ESPHOME/blob/main/images/1.png?raw=true "Image 1")
+![Image 2](https://github.com/Romain-GUILLEMOT/SmartPlug-T101_V1.1-RTL8710BX-ESPHOME/blob/main/images/2.png?raw=true "Image 2")
+![Image 3](https://github.com/Romain-GUILLEMOT/SmartPlug-T101_V1.1-RTL8710BX-ESPHOME/blob/main/images/3.png?raw=true "Image 3")
 
 #### This config is based on [this config](https://devices.esphome.io/devices/Digitaling-20A-Power-Monitor-RTL8710BX-t102-v1.1).
