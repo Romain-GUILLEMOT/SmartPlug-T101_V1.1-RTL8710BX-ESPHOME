@@ -28,9 +28,9 @@ Pin functions can be found here:
 
 ### 📸 Wiring Images
 
-![Image 1](https://esphome.io/_static/esphome-logo.svg "Image 1")
-![Image 2](https://esphome.io/_static/esphome-logo.svg "Image 2")
-![Image 3](https://esphome.io/_static/esphome-logo.svg "Image 3")
+![Image 1](https://github.com/Romain-GUILLEMOT/SmartPlug-T101_V1.1-RTL8710BX-ESPHOME/blob/main/images/1.png?raw=true "Image 1")
+![Image 2](https://github.com/Romain-GUILLEMOT/SmartPlug-T101_V1.1-RTL8710BX-ESPHOME/blob/main/images/2.png?raw=true "Image 2")
+![Image 3](https://github.com/Romain-GUILLEMOT/SmartPlug-T101_V1.1-RTL8710BX-ESPHOME/blob/main/images/3.png?raw=true "Image 3")
 
 ### ⚙️ Recommended Software
 Flashing only worked using **ITchiptool v4.7.0**. You can download this tool via the following link:
@@ -68,7 +68,11 @@ Les détails des fonctions des broches sont disponibles ici :
 4. Branchez rapidement le **3.3V**, puis reconnectez immédiatement le **TX2** sur le port **RX** de la carte UART.
 
 ### 📸 Images de branchement
-Des images des branchements seront ajoutées dans le dossier `images/` pour plus de clarté.
+
+![Image 1](https://github.com/Romain-GUILLEMOT/SmartPlug-T101_V1.1-RTL8710BX-ESPHOME/blob/main/images/1.png?raw=true "Image 1")
+![Image 2](https://github.com/Romain-GUILLEMOT/SmartPlug-T101_V1.1-RTL8710BX-ESPHOME/blob/main/images/2.png?raw=true "Image 2")
+![Image 3](https://github.com/Romain-GUILLEMOT/SmartPlug-T101_V1.1-RTL8710BX-ESPHOME/blob/main/images/3.png?raw=true "Image 3")
+
 
 ### ⚙️ Logiciel recommandé
 Le flash n'a fonctionné qu'avec **ITchiptool v4.7.0**. Vous pouvez télécharger cet outil via le lien suivant :
