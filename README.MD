@@ -36,6 +36,15 @@ Pin functions can be found here:
 Flashing only worked using **ITchiptool v4.7.0**. You can download this tool via the following link:
 **[ITchiptool v4.7.0](https://github.com/libretiny-eu/ltchiptool/releases/tag/v4.7.0)**
 
+
+### Help
+If you need help, here are some links that were helpful during the process:
+
+- [alonsoruibal](https://www.alonsoruibal.com/esphome-in-a-rtl8710bx-smart-plug/)
+- [libratiny](https://docs.libretiny.eu/docs/platform/realtek-ambz/)
+- [elektroda](https://www.elektroda.com/rtvforum/topic4032920.html)
+- [bluemind](https://www.bluemind.org/converting-a-tuya-power-plug-to-esphome-device/)
+
 ---
 
 
@@ -78,5 +87,13 @@ Les détails des fonctions des broches sont disponibles ici :
 Le flash n'a fonctionné qu'avec **ITchiptool v4.7.0**. Vous pouvez télécharger cet outil via le lien suivant :
 **[ITchiptool v4.7.0](https://github.com/libretiny-eu/ltchiptool/releases/tag/v4.7.0)**
  
+### Help
+Si vous avez besoin d’aide, voici quelques liens qui m’ont aidé durant le processus :
+
+- [alonsoruibal](https://www.alonsoruibal.com/esphome-in-a-rtl8710bx-smart-plug/)
+- [libratiny](https://docs.libretiny.eu/docs/platform/realtek-ambz/)
+- [elektroda](https://www.elektroda.com/rtvforum/topic4032920.html)
+- [bluemind](https://www.bluemind.org/converting-a-tuya-power-plug-to-esphome-device/)
+
 
 #### This config is based on [this config](https://devices.esphome.io/devices/Digitaling-20A-Power-Monitor-RTL8710BX-t102-v1.1).
